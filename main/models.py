@@ -45,6 +45,6 @@ class Contact(models.Model):
     
     class Meta:
         verbose_name = 'Contact'
-        verbose_name_plural = 'COntacts'
+        verbose_name_plural = 'Contacts'
 
 
